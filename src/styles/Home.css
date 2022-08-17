@@ -1,0 +1,45 @@
+.head {
+    padding-top: 10%;
+}
+
+.presentation {
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    align-items: center;
+    vertical-align: middle;
+}
+
+.skills {
+    padding-top: 10%;
+}
+
+.net {
+    width: 100%;
+    padding-top: 5%;
+    text-align: center;
+}
+
+.netDescription {
+    text-align: center;
+}
+
+.db {
+    width: 100%;
+    padding-top: 5%;
+    text-align: center;
+}
+
+.dbDescription {
+    text-align: center;
+}
+
+.api {
+    width: 100%;
+    padding-top: 5%;
+    text-align: center;
+}
+
+.apiDescription {
+    text-align: center;
+}
